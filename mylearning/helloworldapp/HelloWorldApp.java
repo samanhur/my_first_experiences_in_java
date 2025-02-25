@@ -1,4 +1,4 @@
-package helloworldapp.helloworldapp;
+package helloworldapp.mylearning.helloworldapp;
 
 public class HelloWorldApp {
     public static void main(String[] args) {
